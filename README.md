@@ -6,7 +6,7 @@
    <!-- Rails -->
    <img align="center" alt="Agnelo-Rails" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Rails.svg">
    <!-- JavaScript -->  
-   <img align="center" alt="Agnelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg">
+   <img align="center" alt="Agnelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
   <!-- HTML -->
   <img align="center" alt="Agnelo-FH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg">
   <!-- CSS -->
