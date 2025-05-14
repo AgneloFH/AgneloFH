@@ -1,6 +1,15 @@
 <div style="display: inline_block"><br>
-  <img align="center" alt="Agnelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg">
- <img align="center" alt="Agnelo-FH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg">
+  <!-- Java -->
+  <img align="center" alt="Agnelo-Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg">
+   <!-- Ruby -->
+   <img align="center" alt="Agnelo-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ruby.svg">
+   <!-- Rails -->
+   <img align="center" alt="Agnelo-Rails" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Rails.svg">
+   <!-- JavaScript -->  
+   <img align="center" alt="Agnelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg">
+  <!-- HTML -->
+  <img align="center" alt="Agnelo-FH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg">
+  <!-- CSS -->
   <img align="center" alt="Agnelo-FH_CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg">
 </div>
   
